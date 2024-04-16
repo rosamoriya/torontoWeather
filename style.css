@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+  background-color: rgba(70, 0, 223, 0.87);
+  color: white;
+  padding: 2em;
+  font-size: 2em;
+}
+
+body img {
+  width: 4em;
+}
